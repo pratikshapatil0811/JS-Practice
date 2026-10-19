@@ -56,7 +56,7 @@ if (true) {
 
 
 // ++++++++++++++++++ interesting ++++++++++++++++++
-//hoisting
+//hosting
 
 console.log(addone(5))
 
